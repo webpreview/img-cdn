@@ -1,2 +1,2 @@
-# -img-cdn
+# img-cdn
 图床
